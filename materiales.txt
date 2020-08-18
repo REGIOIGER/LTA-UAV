@@ -1,0 +1,2 @@
+Ripstop - material hecho de nylon entretejido, revisar recubrimientos con uretano para lograr que el helio no escape.
+TODO - definir la estructura del globo o dirigible, grados de libertad, ..., etc.
